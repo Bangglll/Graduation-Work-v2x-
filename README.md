@@ -3,6 +3,21 @@
 with lgsvl simulator(2019.03v) 
 :sunglasses: https://github.com/lgsvl/simulator-2019.05-obsolete/releases/tag/2019.03
 
+:cherries: 참고 사이트
+
+https://technodori.tistory.com/entry/C-byte-%EA%B5%AC%EC%A1%B0%EC%B2%B4-%EA%B5%AC%EC%A1%B0%EC%B2%B4-byte
+
+https://kdsoft-zeros.tistory.com/25
+
+https://m.blog.naver.com/PostView.nhn?blogId=fish19&logNo=120182356088&proxyReferer=https:%2F%2Fwww.google.com%2F
+
+
+:cherries: 참고 서적
+![이미지](https://img.ridicdn.net/cover/754016709/xxlarge)
+
+
+Graduation work introduction
+=============
 ![이미지](./img/1.jpg)
 
 
